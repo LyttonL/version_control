@@ -1,2 +1,4 @@
 This is the 3rd file
 for Git
+
+Add change for merge into the remote repository 
